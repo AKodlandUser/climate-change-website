@@ -4,4 +4,11 @@ It will contain:
   1. A `.html` file containing the website
   2. A `.css` file containing the website’s styling
 
+Click the button below to preview the current version of the website.
+
+<a href="https://html-preview.github.io/?url=https://github.com/AKodlandUser/climate-change-website/blob/main/index.html">
+  <img src="https://img.shields.io/badge/Preview_Website-black?style=flat-square" width=150px style="border: 1px solid white;" />
+</a>
+<p></p>
+
 > Made for a custom [kodland](https://kodland.org "Kids Coding Platform") [hackathon](https://w.wiki/CKZJ "Programing Marathon Event") which has the topic of “climate change”
