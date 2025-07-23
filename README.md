@@ -13,7 +13,12 @@ Click the button below to preview the current version of the website.
 ## Checklist
 Here’s a small checklist of what to check before you use the website.
 <ol>
-  <li>Have an internet connection <img src="https://github.com/user-attachments/assets/56697d31-b7c9-44c1-af0b-db914b69d785" width=20px></li>
+  <li>Have an internet connection 
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ebce3496-a976-4968-a754-4dabbb910775">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5c119d2c-2204-4480-bcf9-31fea8173206">
+    </picture>
+  </li>
   <p>Having an internet connection is crucial to viewing the website if you haven’t downloaded the <code>.html</code> and <code>.css</code> files.</p>
   <li>Have a browser <img src="https://github.com/user-attachments/assets/c8bc5307-4c63-4c4d-8ad4-7f20ee332651" width=20px>, <img src="https://github.com/user-attachments/assets/d672e49b-be1c-4254-8780-18b87ee12c64" width=20px>, <img src="https://github.com/user-attachments/assets/1ed485ad-754a-4df0-aaf2-fc22e04c787b" width=20px>, etc.</li>
   <p>Normally, your device has a browser preinstalled, use the browser to acess the file and view it. You can do it by <a href="https://github.com/AKodlandUser/climate-change-website#button">clicking the button</a>.</p>
