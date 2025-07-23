@@ -6,11 +6,17 @@ It will contain:
 
 Click the button below to preview the current version of the website.
 
-<a href="https://html-preview.github.io/?url=https://github.com/AKodlandUser/climate-change-website/blob/main/index.html" target="_blank">
+<a href="https://html-preview.github.io/?url=https://github.com/AKodlandUser/climate-change-website/blob/main/index.html" id="button">
   <img src="https://img.shields.io/badge/Preview_Website-black?style=flat-square" width=150px style="border: 1px solid white;" />
 </a>
 
-<br>
-<br>
+## Checklist
+Here’s a small checklist of what to check before you use the website.
+<ol>
+  <li>Have an internet connection <img src="https://github.com/user-attachments/assets/56697d31-b7c9-44c1-af0b-db914b69d785" width=20px></li>
+  <p>Having an internet connection is crucial to viewing the website if you haven’t downloaded the <code>.html</code> and <code>.css</code> files.</p>
+  <li>Have a browser <img src="https://github.com/user-attachments/assets/c8bc5307-4c63-4c4d-8ad4-7f20ee332651" width=20px>, <img src="https://github.com/user-attachments/assets/d672e49b-be1c-4254-8780-18b87ee12c64" width=20px>, <img src="https://github.com/user-attachments/assets/1ed485ad-754a-4df0-aaf2-fc22e04c787b" width=20px>, etc.</li>
+  <p>Normally, your device has a browser preinstalled, use the browser to acess the file and view it. You can do it by <a href="https://github.com/AKodlandUser/climate-change-website#button">clicking the button</a>.</p>
+</ol>
 
 > Made for a custom [kodland](https://kodland.org "Coding Platform for Kids") [hackathon](https://w.wiki/CKZJ "Programing Marathon Event") which has the topic of “climate change”
