@@ -17,6 +17,7 @@ Here’s a small checklist of what to check before you use the website.
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ebce3496-a976-4968-a754-4dabbb910775">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/5c119d2c-2204-4480-bcf9-31fea8173206">
+      <img src="https://github.com/user-attachments/assets/ebce3496-a976-4968-a754-4dabbb910775"
     </picture>
   </li>
   <p>Having an internet connection is crucial to viewing the website if you haven’t downloaded the <code>.html</code> and <code>.css</code> files.</p>
