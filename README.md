@@ -6,7 +6,7 @@ It will contain:
 
 Click the button below to preview the current version of the website.
 
-<a href="https://html-preview.github.io/?url=https://github.com/AKodlandUser/climate-change-website/blob/main/index.html" id="button">
+<a href="https://akodlanduser.github.io/climate-change-website/" id="button">
   <img src="https://img.shields.io/badge/Preview_Website-black?style=flat-square" width=150px style="border: 1px solid white;" />
 </a>
 
